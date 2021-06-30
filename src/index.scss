@@ -18,6 +18,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  text-align: center;
 
   img {
     width: 80px;
@@ -29,5 +30,17 @@ body {
     font-size: 36px;
     color: #fff;
     letter-spacing: 2px;
+  }
+
+  h2 {
+    font-weight: 100;
+    font-size: 18px;
+    color: #c4c4c4;
+    letter-spacing: 2px;
+  }
+
+  h1,
+  h2 {
+    margin: 0;
   }
 }
